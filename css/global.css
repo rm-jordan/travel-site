@@ -56,8 +56,20 @@ nav {
   color: #335576;
 }
 
+/* .nav__menu a:hover {
+  border-bottom: 2px solid #db7a4e;
+} */
+
+/* // ask for help with this!!!! */
+/* how can I accomplish this without giving them a new class like I did when I added the current page underline?
+just javascript can do this? */
+
 .nav__menu--current {
   border-bottom: 2px solid #db7a4e;
+}
+
+.nav__menu--current:hover {
+  border: none;
 }
 
 .link {

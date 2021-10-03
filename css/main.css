@@ -76,6 +76,10 @@ button {
   margin-right: 20px;
 }
 
+.card__header:hover {
+  color: #db7a4e;
+}
+
 .recommend1 {
   background-image: url(../Assets/Images/hawaii.jpg);
   background-repeat: no-repeat;
