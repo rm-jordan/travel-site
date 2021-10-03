@@ -1,17 +1,16 @@
 * {
   font-size: 16px;
   box-sizing: border-box;
-  /* border: 1px solid darkcyan; */
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h2 {
   color: #335576;
-  font-size: 26px;
+  font-size: 1.625rem;
 }
 
 h6 {
-  font-size: 12px;
+  font-size: 0.75rem;
   font-weight: 100;
   text-transform: uppercase;
   color: #db7a4e;
@@ -43,7 +42,7 @@ nav {
 }
 
 .nav__header--title {
-  font-size: 20px;
+  font-size: 1.25rem;
 }
 
 .nav__menu {
@@ -71,7 +70,8 @@ nav {
 footer {
   display: flex;
   justify-content: space-around;
-  background-color: #fff;
+  background-color: #fefaf5;
+  padding-top: 20px;
 }
 
 .break {
