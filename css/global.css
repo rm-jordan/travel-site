@@ -15,7 +15,6 @@ h6 {
   text-transform: uppercase;
   color: #db7a4e;
 }
-
 p {
   font-size: 1rem;
   color: #335576;
@@ -85,9 +84,13 @@ footer {
 
 .icon {
   display: inline-block;
-  height: 40px;
+  height: 2.5rem;
   margin-top: 40px;
   margin-right: 20px;
+}
+
+.icon:hover {
+  height: 3.125rem;
 }
 
 .spacing__one {
