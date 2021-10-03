@@ -1,0 +1,62 @@
+.section__bgr {
+  background-image: url("../Assets/Images/iceland.jpg");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 85vh;
+}
+
+.img--two {
+  background-image: url("../Assets/Images/hawaii.jpg");
+}
+
+.img--three {
+  background-image: url("../Assets/Images/greece.jpg");
+}
+
+.section__heading {
+  color: #fff;
+  font-size: 60px;
+  padding-top: 40px;
+  padding-left: 40px;
+  letter-spacing: 2px;
+}
+
+.card__container {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 50px;
+  width: 100%;
+}
+
+.card {
+  background-color: #fff;
+  width: 275px;
+  height: 350px;
+  border: none;
+  border-radius: 5px;
+  margin: 0px 20px;
+}
+
+.card-heading {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+  color: black;
+  border-bottom: 1px solid black;
+  font-size: 20px;
+}
+
+.card-list {
+  margin: 0 auto;
+  padding: 0;
+  /* may need to change above */
+}
+
+.card-list li {
+  text-align: center;
+  list-style-type: none;
+  text-decoration: none;
+  margin-top: 40px;
+  font-size: 18px;
+}
