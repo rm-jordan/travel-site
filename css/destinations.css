@@ -4,6 +4,7 @@
   background-size: 100%;
   background-repeat: no-repeat;
   height: 85vh;
+  min-height: 43.75rem;
 }
 
 .img--two {
